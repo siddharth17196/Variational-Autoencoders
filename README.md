@@ -14,4 +14,4 @@
 
 <hr>
 
-*Question 1 of Assignment 3 of Deep Learning course*
+*Question 1 of Assignment 3 of the Deep Learning course*
