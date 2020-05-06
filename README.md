@@ -6,4 +6,4 @@
 
 ### Confusion Matrix (training SVM on the latent space)
 
-![cm](images/Confusion\ matrix.png)
+![cm](images/confusion_matrix.png)
