@@ -12,5 +12,6 @@
 ![cm](images/confusion_matrix.png)
 
 
-<hr>
+<hr><\hr>
+
 *Assignment 3 of Deep Learning course*
