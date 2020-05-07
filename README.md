@@ -1,4 +1,4 @@
-# Variational_Autoencoders
+# Variational Autoencoders
 
 ### Training Progress
 ![status](images/improv.png)
